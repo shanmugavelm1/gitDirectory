@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 file2.
 .
 .
@@ -7,3 +8,9 @@ file2.
 .
 ..
 ....
+||||||| 40a7fad
+=======
+file2 subfile2 sub branch
+line 2
+lin3
+>>>>>>> subbranch
